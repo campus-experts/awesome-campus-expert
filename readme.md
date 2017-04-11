@@ -7,6 +7,7 @@
 
 - [Learn](#learn)
   - [Git](#git)
+  - [Markdown](#markdown)
 - [Workshops](#workshops)
   - [Tips](#tips)
   - [Slide Resources](#slide-resources)
