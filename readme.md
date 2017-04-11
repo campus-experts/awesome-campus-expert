@@ -5,24 +5,33 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Learn](#learn)
+  - [Git](#git)
+- [Workshops](#workshops)
+  - [Tips](#tips)
+  - [Slide Resources](#slide-resources)
 
 
-## Section
+## Learn
 
-About this section. Optional. Keep this short and focus on the list.
+Resources for learning or teaching languages, techniques, skills etc.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Git
+
+- [Learn Git Branching](http://learngitbranching.js.org/) - Interactive lesson which visualises branches and commits
 
 
-## Another Section
+## Workshops
 
-### Subsection
+Resources for running workshops and workshops that other campus experts have run themselves or that may be useful to others.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Tips
+
+- [Speaking.io](http://speaking.io/) - a cool website with some good tips on giving talks, focused on tech talks mostly
+
+
+### Slide Resources
+- [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
 
 
 ## Contribute
