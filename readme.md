@@ -7,6 +7,7 @@
 
 - [Learn](#learn)
   - [Git](#git)
+  - [Markdown](#markdown)
 - [Workshops](#workshops)
   - [Tips](#tips)
   - [Slide Resources](#slide-resources)
@@ -19,6 +20,13 @@ Resources for learning or teaching languages, techniques, skills etc.
 ### Git
 
 - [Learn Git Branching](http://learngitbranching.js.org/) - Interactive lesson which visualises branches and commits
+- [GitHub Flow](https://guides.github.com/introduction/flow/) - Guide that explains how and why GitHub Flow work
+- [On Demand Training](https://services.github.com/on-demand/) - On demand training material for various Git and GitHub tools such a command line and GitHub Pages
+- [GitHub training resources](https://services.github.com/resources/) -  Extensive collection of battle tested resources from documentation to training slides and cheat sheets
+
+### Markdown
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - GitHub guide to mastering GitHub flavoured markdown
 
 
 ## Workshops
