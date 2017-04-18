@@ -11,6 +11,8 @@
 - [Workshops](#workshops)
   - [Tips](#tips)
   - [Slide Resources](#slide-resources)
+- [Writing](#writing)
+  - [Tools](#tools)
 
 
 ## Learn
@@ -41,6 +43,18 @@ Resources for running workshops and workshops that other campus experts have run
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
 
+## Writing
+
+Resources for writing and maintaining technical documentation
+
+### Visualisation
+
+- [Apiary](https://apiary.io/) - Powerful API Design Stack. Built for Developers.
+
+### Tools
+
+- [nanoc](https://nanoc.ws/) - Nanoc is a static-site generator, fit for building anything from a small personal blog to a large corporate website. (used by GitHub on their own docs)
+- [Sphinx](http://www.sphinx-doc.org/en/stable/) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, originally created for the Python documentation.
 
 ## Contribute
 
