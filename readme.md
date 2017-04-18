@@ -2,6 +2,7 @@
 
 > A curated list of awesome resources for GitHub Campus Experts
 
+Resources marked with a :triangular_flag_on_post: have been created by campus experts
 
 ## Contents
 
@@ -28,6 +29,7 @@ Resources for learning or teaching languages, techniques, skills etc.
 - [GitHub Flow](https://guides.github.com/introduction/flow/) - Guide that explains how and why GitHub Flow work
 - [On Demand Training](https://services.github.com/on-demand/) - On demand training material for various Git and GitHub tools such a command line and GitHub Pages
 - [GitHub training resources](https://services.github.com/resources/) -  Extensive collection of battle tested resources from documentation to training slides and cheat sheets
+- :triangular_flag_on_post: [Lionex/github-workshop](https://github.com/Lionex/github-workshop) - Originally created for HackFSU '17, this workshop hopes to introduce new hackers to the basics of using git with GitHub.
 
 ### Markdown
 
