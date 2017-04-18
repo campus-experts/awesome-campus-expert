@@ -14,6 +14,8 @@
 - [Writing](#writing)
   - [Tools](#tools)
   - [Content Guides](#content-guides)
+- [Open Source](#opensource)
+  - [Find projects](#find-projects)
 
 
 ## Learn
@@ -65,6 +67,20 @@ Communication and writing style
 - [18f](https://pages.18f.gov/content-guide/) - How to plan, write, and manage content at 18F.
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-s-writing-guidelines) - DigitalOcean's Writing Guidelines
 - [SendGrid](https://sendgrid.com/blog/write-technical-blog-posts/) - How To Write Technical Blog Posts
+
+## Open Source
+
+## Find Projects
+
+- http://up-for-grabs.net/
+- http://issuehub.io/
+- http://www.firsttimersonly.com/
+- http://yourfirstpr.github.io/
+- https://github.com/MunGell/awesome-for-beginners
+- http://docsdoctor.org
+- http://PullRequestRoulette.com
+- http://24pullrequests.com
+- https://webcompat.com/
 
 
 ## Contribute
