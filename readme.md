@@ -13,6 +13,7 @@
   - [Slide Resources](#slide-resources)
 - [Writing](#writing)
   - [Tools](#tools)
+  - [Content Guides](#content-guides)
 
 
 ## Learn
@@ -55,6 +56,16 @@ Resources for writing and maintaining technical documentation
 
 - [nanoc](https://nanoc.ws/) - Nanoc is a static-site generator, fit for building anything from a small personal blog to a large corporate website. (used by GitHub on their own docs)
 - [Sphinx](http://www.sphinx-doc.org/en/stable/) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, originally created for the Python documentation.
+
+### Content Guides
+
+Communication and writing style
+
+- [mailchimp](http://styleguide.mailchimp.com/) - The style guide was created for MailChimp employees
+- [18f](https://pages.18f.gov/content-guide/) - How to plan, write, and manage content at 18F.
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-s-writing-guidelines) - DigitalOcean's Writing Guidelines
+- [SendGrid](https://sendgrid.com/blog/write-technical-blog-posts/) - How To Write Technical Blog Posts
+
 
 ## Contribute
 
