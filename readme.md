@@ -72,17 +72,17 @@ Communication and writing style
 
 ## Open Source
 
-## Find Projects
+### Find Projects
 
-- http://up-for-grabs.net/
-- http://issuehub.io/
-- http://www.firsttimersonly.com/
-- http://yourfirstpr.github.io/
-- https://github.com/MunGell/awesome-for-beginners
-- http://docsdoctor.org
-- http://PullRequestRoulette.com
-- http://24pullrequests.com
-- https://webcompat.com/
+- (Up For Grabs)[http://up-for-grabs.net/] - List of projects which have curated tasks specifically for new contributors.
+- (issuehub.io)[http://issuehub.io/] - Contribute to Open Source. Search issue labels to find the right project for you!
+- (FIRST TIMERS ONLY)[http://www.firsttimersonly.com/] - Friendly Open Source projects should reserve specific issues for newbies.
+- (Your First PR)[http://yourfirstpr.github.io/] - Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
+- (Awesome First PR Opportunities)[https://github.com/MunGell/awesome-for-beginners] - A list of awesome beginners-friendly projects.
+- (Codetriange)[https://www.codetriage.com/] - Help out your favorite open source projects and become a better developer while doing it.
+- (Pull Request Roulette)[http://PullRequestRoulette.com] - Pull requests (or PRs) submitted for review
+- (24 Pull Requests)[http://24pullrequests.com] - Contribute to projects for 24 days leading up to christmas
+- (WebCompat)[https://webcompat.com/] - Bug reporting for the internet
 
 
 ## Contribute
