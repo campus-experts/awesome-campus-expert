@@ -55,6 +55,7 @@ Resources for writing and maintaining technical documentation
 ### Visualisation
 
 - [Apiary](https://apiary.io/) - Powerful API Design Stack. Built for Developers.
+- [Swagger](http://swagger.io) - Swagger is a powerful open source framework backed by a large ecosystem of tools that helps  design, build, document, and consume RESTful APIs.
 
 ### Tools
 
