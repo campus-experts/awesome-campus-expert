@@ -68,7 +68,7 @@ Resources for writing and maintaining technical documentation
 
 Communication and writing style
 
-- [mailchimp](http://styleguide.mailchimp.com/) - The style guide was created for MailChimp employees
+- [MailChimp](http://styleguide.mailchimp.com/) - The style guide was created for MailChimp employees
 - [18f](https://pages.18f.gov/content-guide/) - How to plan, write, and manage content at 18F.
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-s-writing-guidelines) - DigitalOcean's Writing Guidelines
 - [SendGrid](https://sendgrid.com/blog/write-technical-blog-posts/) - How To Write Technical Blog Posts
