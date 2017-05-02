@@ -47,6 +47,7 @@ Resources for running workshops and workshops that other campus experts have run
 
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
+- [Remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
 
 ## Writing
 
@@ -55,17 +56,19 @@ Resources for writing and maintaining technical documentation
 ### Visualisation
 
 - [Apiary](https://apiary.io/) - Powerful API Design Stack. Built for Developers.
+- [Swagger](http://swagger.io) - Swagger is a powerful open source framework backed by a large ecosystem of tools that helps design, build, document, and consume RESTful APIs.
 
 ### Tools
 
 - [nanoc](https://nanoc.ws/) - Nanoc is a static-site generator, fit for building anything from a small personal blog to a large corporate website. (used by GitHub on their own docs)
 - [Sphinx](http://www.sphinx-doc.org/en/stable/) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, originally created for the Python documentation.
+- [Daux](https://github.com/justinwalsh/daux.io) - Daux is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 
 ### Content Guides
 
 Communication and writing style
 
-- [mailchimp](http://styleguide.mailchimp.com/) - The style guide was created for MailChimp employees
+- [MailChimp](http://styleguide.mailchimp.com/) - The style guide was created for MailChimp employees
 - [18f](https://pages.18f.gov/content-guide/) - How to plan, write, and manage content at 18F.
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-s-writing-guidelines) - DigitalOcean's Writing Guidelines
 - [SendGrid](https://sendgrid.com/blog/write-technical-blog-posts/) - How To Write Technical Blog Posts
