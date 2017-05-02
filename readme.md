@@ -1,6 +1,6 @@
-# Awesome Campus Expert [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Awesome Campus Expert](https://cloud.githubusercontent.com/assets/8436717/25505858/a76c6a54-2b9b-11e7-9062-d9f4e664ace0.gif)
 
-> A curated list of awesome resources for GitHub Campus Experts
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Resources marked with a :triangular_flag_on_post: have been created by campus experts
 
