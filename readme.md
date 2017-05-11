@@ -17,6 +17,8 @@ Resources marked with a :triangular_flag_on_post: have been created by campus ex
   - [Content Guides](#content-guides)
 - [Open Source](#opensource)
   - [Find projects](#find-projects)
+- [Community](#community)
+  - [Management](#management)
 
 
 ## Learn
@@ -86,6 +88,11 @@ Communication and writing style
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas
 - [WebCompat](https://webcompat.com/) - Bug reporting for the internet
+
+## Community
+
+### Management
+-[Curriculum for the Atom Community Manager Apprenticeship project](https://github.com/lee-dohm/community-manager)
 
 
 ## Contribute
