@@ -94,7 +94,7 @@ Communication and writing style
 ## Community
 
 ### Management
--[Curriculum for the Atom Community Manager Apprenticeship project](https://github.com/lee-dohm/community-manager)
+- [Curriculum for the Atom Community Manager Apprenticeship project](https://github.com/lee-dohm/community-manager)
 
 
 ## Contribute
