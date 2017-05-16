@@ -1,0 +1,30 @@
+{
+  "name": "awesome-campus-expert",
+  "version": "1.0.0",
+  "description": "A curated list of awesome resources for GitHub Campus Experts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha './test/**/*_spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campus-experts/awesome-campus-expert.git"
+  },
+  "author": "GitHub Campus Experts",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/campus-experts/awesome-campus-expert/issues"
+  },
+  "homepage": "https://github.com/campus-experts/awesome-campus-expert#readme",
+  "devDependencies": {
+    "async": "^2.4.0",
+    "link-check": "^4.0.2",
+    "lodash": "^4.17.4",
+    "markdown-link-extractor": "^1.1.0",
+    "mocha": "^3.4.1",
+    "should": "^11.2.1"
+  }
+}
