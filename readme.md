@@ -11,11 +11,12 @@ Resources marked with a :triangular_flag_on_post: have been created by campus ex
   - [Markdown](#markdown)
 - [Workshops](#workshops)
   - [Tips](#tips)
+  - [Teaching](#teaching)
   - [Slide Resources](#slide-resources)
 - [Writing](#writing)
   - [Tools](#tools)
   - [Content Guides](#content-guides)
-- [Open Source](#opensource)
+- [Open Source](#open-source)
   - [Find projects](#find-projects)
 - [Community](#community)
   - [Management](#management)
@@ -47,6 +48,9 @@ Resources for running workshops and workshops that other campus experts have run
 
 - [Speaking.io](http://speaking.io/) - a cool website with some good tips on giving talks, focused on tech talks mostly
 
+### Teaching 
+
+- [github/training-utils](https://github.com/github/training-utils) - A series of Bash and ZShell scripts useful when teaching about git and GitHub (+ bonus [list of useful apps](https://github.com/github/training-utils#other-useful-apps))
 
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
