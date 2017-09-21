@@ -51,6 +51,7 @@ Resources for running workshops and workshops that other campus experts have run
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
 - [Remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS.
+- [`reveal-md`](https://www.npmjs.com/package/reveal-md) - Write reveal.js slides as a single markdown file, and use markdown's html fallback to add more complicated markup and set reveal-specific configuration (like fragments).
 
 ## Writing
 
