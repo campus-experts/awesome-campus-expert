@@ -47,6 +47,7 @@ Resources for running workshops and workshops that other campus experts have run
 ### Tips
 
 - [Speaking.io](http://speaking.io/) - a cool website with some good tips on giving talks, focused on tech talks mostly
+- [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/) - Melinda Seckington, talk on the fundamentals of good slide design for pleasant and effective transfer of information.
 
 ### Teaching 
 
