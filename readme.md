@@ -54,6 +54,7 @@ Resources for running workshops and workshops that other campus experts have run
 - [github/training-utils](https://github.com/github/training-utils) - A series of Bash and ZShell scripts useful when teaching about git and GitHub (+ bonus [list of useful apps](https://github.com/github/training-utils#other-useful-apps))
 - [codesandbox](https://codesandbox.io/) - Online web application editor (react, vue), useful when running a react/vue or other framework type workshop.
 - [Glitch](https://glitch.com/) - Online HTML/JS/CSS editor and viewer, very useful when doing HTMl / web based workshops. Also hosts the static site at project-name.glitch.me. Bonus, runs node.js so it can also be used to run an api workshop if the backend is written in node.js.
+- [pandelisz/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - A ready to go forkable base for a GitHub workshop. Useful for introducing people to with their first commits and pull reqeusts.
 
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
