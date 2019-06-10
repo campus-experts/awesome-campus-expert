@@ -73,7 +73,7 @@ Resources for writing and maintaining technical documentation
 
 - [nanoc](https://nanoc.ws/) - Nanoc is a static-site generator, fit for building anything from a small personal blog to a large corporate website. (used by GitHub on their own docs)
 - [Sphinx](http://www.sphinx-doc.org/en/stable/) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, originally created for the Python documentation.
-- [Daux](https://github.com/justinwalsh/daux.io) - Daux is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+- [Daux](https://github.com/justinwalsh/daux.io) - Daux is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - :triangular_flag_on_post: [mdpdf](https://github.com/bluehatbrit/mdpdf) - mdpdf is a tool for generating stylable pdfs from markdown.
 
 ### Content Guides
