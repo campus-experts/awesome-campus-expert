@@ -94,7 +94,7 @@ Communication and writing style
 - [FIRST TIMERS ONLY](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
 - [Your First PR](http://yourfirstpr.github.io/) - Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
+- [CodeTriage](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas
 - [WebCompat](https://webcompat.com/) - Bug reporting for the internet
