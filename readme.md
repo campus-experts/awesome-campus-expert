@@ -34,6 +34,7 @@ Resources for learning or teaching languages, techniques, skills etc.
 - [On Demand Training](https://services.github.com/on-demand/) - On demand training material for various Git and GitHub tools such a command line and GitHub Pages
 - [GitHub training resources](https://services.github.com/resources/) -  Extensive collection of battle tested resources from documentation to training slides and cheat sheets
 - :triangular_flag_on_post: [Lionex/github-workshop](https://github.com/Lionex/github-workshop) - Originally created for HackFSU '17, this workshop hopes to introduce new hackers to the basics of using git with GitHub.
+- :triangular_flag_on_post: [pandelisz/git-intro-slides](https://github.com/PandelisZ/git-intro-slides) - Created for a series of git workshops at universities with details about commits and the GitHub flow.
 
 ### Markdown
 
@@ -54,6 +55,7 @@ Resources for running workshops and workshops that other campus experts have run
 - [github/training-utils](https://github.com/github/training-utils) - A series of Bash and ZShell scripts useful when teaching about git and GitHub (+ bonus [list of useful apps](https://github.com/github/training-utils#other-useful-apps))
 - [codesandbox](https://codesandbox.io/) - Online web application editor (react, vue), useful when running a react/vue or other framework type workshop.
 - [Glitch](https://glitch.com/) - Online HTML/JS/CSS editor and viewer, very useful when doing HTMl / web based workshops. Also hosts the static site at project-name.glitch.me. Bonus, runs node.js so it can also be used to run an api workshop if the backend is written in node.js.
+- :triangular_flag_on_post: [pandelisz/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - A ready to go forkable base for a GitHub workshop. Useful for introducing people to with their first commits and pull reqeusts.
 
 ### Slide Resources
 - [FsReveal](https://github.com/fsprojects/FsReveal) - FsReveal allows you to write beautiful slides in Markdown and brings F# to the reveal.js web presentation framework.
