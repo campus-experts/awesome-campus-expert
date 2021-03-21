@@ -103,7 +103,11 @@ Communication and writing style
 
 ### Management
 - [Curriculum for the Atom Community Manager Apprenticeship project](https://github.com/lee-dohm/community-manager)
+- [Building your own Community](https://projectinclude.org/)
 
+## OctoCat  
+- [Create your own](https://myoctocat.com/)
+- [Read to use](https://octodex.github.com/)
 
 ## Contribute
 
