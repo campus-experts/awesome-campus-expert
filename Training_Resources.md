@@ -3,7 +3,8 @@
 
 ## Module 0 ~ Start Here
 - [Video](https://www.youtube.com/watch?v=bKCa9LVacUk&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=1)
-  - does not have transcript?
+- [Transcript](https://github.com/campus-experts/open-training/blob/master/0-start-here/resources/webinar-transcript.md)
+  - [README](https://github.com/campus-experts/open-training/blob/master/0-start-here/README.md)
 - [Managing Notifications](https://github.com/campus-experts/open-training/blob/master/docs/managing-notifications.md)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Intro to GitHub](https://services.github.com/on-demand/intro-to-github/)
@@ -11,7 +12,8 @@
 
 ## Module 1 ~ Introduction
 - [Video](https://www.youtube.com/watch?v=kCs0gSlFM1A&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=2)
-  - does not have transcript?
+- [Transcript](https://github.com/campus-experts/open-training/blob/master/01-introduction/resources/webinar-transcript.md)
+  - [README](https://github.com/campus-experts/open-training/blob/master/01-introduction/README.md)
 
 ## Module 2 ~ Community Management
 - [Video](https://www.youtube.com/watch?v=PWbP-lk8rX4&index=3&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
@@ -97,7 +99,7 @@
 
 ## Module 10 ~ Opensource Clubs
 - [Video](https://www.youtube.com/watch?v=eLfyXT7tcDE&index=11&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
-- No Transcript!
+- [Transcript](https://github.com/campus-experts/open-training/blob/master/10-opensource-clubs/resources/webinar-transcript.md)
 - [Starting a Club](https://github.com/campus-experts/open-training/blob/master/10-opensource-clubs/resources/starting-a-club.md)
 
 ## Module 11 ~ Git Tips & Tricks
@@ -118,8 +120,8 @@
 
 ## Module 13 ~ Atom
 - [Video](https://www.youtube.com/watch?v=ma1PmLRcLKc&index=13&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
-- No Transcript!!
-- [Making Plugins in Atom](https://github.com/campus-experts/open-training/blob/master/13-atom/resources/atom-content.md)
+- [Transcript](https://github.com/campus-experts/open-training/blob/master/13-atom/resources/webinar-transcript.md)
+- Making Plugins in Atom: [atom_content.md](https://github.com/campus-experts/open-training/blob/master/13-atom/resources/atom-content.md)
 - [Atom Flight Manual](http://flight-manual.atom.io/)
 - [Building Your First Atom Plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
 
